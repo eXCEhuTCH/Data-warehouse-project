@@ -33,7 +33,7 @@ These insights empower stakeholders with key bussiness metrics,enabling strategi
 This project is liscense under the MIT liscense . you are free to use,modify, and share this project with proper attribute
 
 
-### Ab out me
+### About me
 Hi there! I'm **Bosu Richmond Joe** also known as **Excel Huntch** I'm a geography students and passionate about learning and working with data(Data analytics)
 
 
