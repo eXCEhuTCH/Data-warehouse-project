@@ -11,7 +11,7 @@ It performs the following actions:
 Parameters;
 none.
 This stored procedure does not accept any parameters any value
-Usage Example
+Usage Example:
 EXEC bronze.load_bronze
 =====================================================
 */
@@ -19,7 +19,7 @@ EXEC bronze.load_bronze
 Create or Alter procedure bronze.load_bronze as
  Begin
  DECLARE @start_time as Datetime, @end_time as Datetime;
-  bEGIN trY
+  bEGIN TRY
          print '======================================================';
         print 'loading bronze layer';
         print '========================================'
